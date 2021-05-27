@@ -3,9 +3,13 @@ Building android components library for the organization.
 
 ### Publishing
 1. Build the modules first
+    ```
     $ ./gradlew assemble
+    ```
 2. Publish
+    ```
     $ ./gradlew publish
+    ```
    
 ### Developers
-1. TheDukerChip(thedukerchip@gmail.com)
+1. [@TheDukerChip](https://twitter.com/TheDukerChip)
